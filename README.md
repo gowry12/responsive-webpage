@@ -28,7 +28,7 @@ Screenshots
 HOME PAGE
 <img width="959" alt="HOME" src="https://github.com/user-attachments/assets/1902856b-5f8d-4535-9e64-c8b944dbb0a1" />
 MAIN PAGE
-![Main Page](flask_app/MAIN.PNG)
+<img width="960" alt="MAIN" src="https://github.com/user-attachments/assets/01cb4bf4-df4e-4aaa-b8b6-e7d774f225b7" />
 
 
  view the source code or contribute to the project, visit the GitHub repository:
