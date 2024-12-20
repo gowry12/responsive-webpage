@@ -38,9 +38,9 @@ Use the "Go to Main Page" button on the Home page to navigate to the Main page, 
 
 Screenshots
 Home Page
-![Home Page](flask_app/home.png)
+![Home Page](flask_app/HOME.png)
  Main Page
-![Main Page](flask_app/main.png)
+![Main Page](flask_app/MAIN.png)
 
 
  view the source code or contribute to the project, visit the GitHub repository:
