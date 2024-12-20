@@ -26,7 +26,7 @@ Use the "Go to Main Page" button on the Home page to navigate to the Main page, 
 
 Screenshots
 HOME PAGE
-![Home Page](flask_app/HOME.PNG)
+<img width="959" alt="HOME" src="https://github.com/user-attachments/assets/1902856b-5f8d-4535-9e64-c8b944dbb0a1" />
 MAIN PAGE
 ![Main Page](flask_app/MAIN.PNG)
 
