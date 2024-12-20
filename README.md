@@ -37,10 +37,10 @@ http://127.0.0.1:5000/
 Use the "Go to Main Page" button on the Home page to navigate to the Main page, which displays user information.
 
 Screenshots
-Home Page
-![Home Page](flask_app/HOME.png)
- Main Page
-![Main Page](flask_app/MAIN.png)
+HOME PAGE
+![Home Page](flask_app/HOME.PNG)
+MAIN PAGE
+![Main Page](flask_app/MAIN.PNG)
 
 
  view the source code or contribute to the project, visit the GitHub repository:
